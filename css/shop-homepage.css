@@ -81,7 +81,7 @@ blockquote{
     font-weight: bold;
     font-size:100px;
     color:white;
-    font-family: "Times New Roman", Georgia, Serif;
+    font-family: "Helvetica", Sans, Serif;
     
 }
 
@@ -143,7 +143,7 @@ blockquote{
 	width: 30px;
     height: 30px;
     text-align: center;
-    border: 1px solid #88C425;
+    border: 1px solid #25c4c1;
     margin: 2px;
     padding: 5px;
 	display: inline-block;
@@ -164,6 +164,6 @@ blockquote{
 }
 .img-box a:hover li{
 	border-color: #fff;
-	color: #88C425;
+	color: #25c4c1;
 }
 
