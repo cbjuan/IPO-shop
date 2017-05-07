@@ -1,4 +1,11 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/)
+# [IPO-SHOP](https://juan-cb.github.io/IPO-shop/) - Creada a partir de [Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/)
+
+La web _dummy_ alojada en este repositorio está pensada para que los alumnos de la asignatura Interacción Persona-Ordenador de 3º del Grado en Ingeniería Informática de la Universidad de Salamanca.
+Los alumnos deben utilizarla para integrar [Walkme](http://walkme.com) y guiar usuarios por el sitio web para después evaluar su interacción con el mismo a través del panel de Analytics de Walkme.
+
+Las condiciones completas de la práctica, están en el [Studium](http://studium.usal.es) de la asignatura
+
+## About Shop Homepage
 
 [Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
@@ -25,3 +32,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/gh-pages/LICENSE) license.
+Modified by IPO USAL teachers for teaching purposes
